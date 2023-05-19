@@ -1,4 +1,4 @@
-# Web Spider Readme
+# Web Spider 
 
 This is a Python script that allows you to recursively spider an array of domains, extract all text from the webpages, and save them to text files in an output directory. The script uses the `requests` library to retrieve web content and the `BeautifulSoup` library to parse HTML.
 
